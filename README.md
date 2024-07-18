@@ -1,0 +1,9 @@
+Windows96 software repository. 
+THATS MY REPOSITORY AND PUBLIC, I WARN YOU!
+THIS LINKS IS WIN96 SOFTWARE REPOSITORY, BUT OF MORE, 
+YOU CAN (maybe not all links) HAVE MALWARE OF 1 OR MORE PACKAGES! 
+### Under construction but still works ###
+https://packages.windows96.net/main
+https://packages.windows96.net/r3-main
+https://egg.l5.ca/w96
+https://onofficiel.github.io/w96
